@@ -104,7 +104,7 @@ The project was implemented using the following tools:
 * **Pandas** for data manipulation
 * **NumPy** for numerical operations
 * **Matplotlib** and **Seaborn** for visualization
-* **Jupyter Notebook** for analysis and documentation
+* **Google Collab** for analysis and documentation
 
 
 ## Future Improvements
